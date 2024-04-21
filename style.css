@@ -1,0 +1,19 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    background: rgb(71, 71, 233);
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1, h2 {
+    color: #fff;
+}
+p {
+    color: #fff;
+}
+li{
+    color: #fff;
+}
